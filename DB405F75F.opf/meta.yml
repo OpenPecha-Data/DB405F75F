@@ -1,0 +1,22 @@
+id: DB405F75F
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-07T13:46:44+00:00'
+last_modified: '2022-05-30T06:35:31.457872+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    '5076':
+      image_group_id: I1PD95961
+      title: སློབ་དཔོན་ཀཱ་མ་ལ་ཤཱི་ལའི་སྨོན་ལམ་མུ་གཉིས་མ།
+      total_pages: 1880
+      order: 116
+      base_file: 5076.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
